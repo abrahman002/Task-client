@@ -1,0 +1,11 @@
+.footer{
+    background-color: azure;
+    border-radius: 20px;
+}
+.footer a{
+    text-decoration: none;
+}
+
+.footer-text{
+    padding: 50px;
+}
